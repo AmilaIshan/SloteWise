@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SlotWise
 
 A multi-tenant appointment booking SaaS platform.
@@ -13,4 +13,3 @@ A multi-tenant appointment booking SaaS platform.
 - Redis
 - BullMQ
 - Docker
-=======
